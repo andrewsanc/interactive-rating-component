@@ -1,4 +1,7 @@
 body {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
   background-color: #131518;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
