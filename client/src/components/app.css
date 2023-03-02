@@ -1,0 +1,28 @@
+body {
+  background-color: #131518;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {
+  color: #fff;
+  margin: 10px 0px 6px 0px;
+}
+
+p {
+  color: #7a828c;
+  margin: 10px 0px 6px 0px;
+}
+
+.rating-component {
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+  background-color: #212730;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.align-center {
+  align-items: center;
+  gap: 12px;
+}

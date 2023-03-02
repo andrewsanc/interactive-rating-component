@@ -1,0 +1,10 @@
+.rating-selected {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  border-radius: 20px;
+  padding: 8px;
+  background-color: #262f37;
+  color: #fc7613;
+  font-weight: bold;
+}
